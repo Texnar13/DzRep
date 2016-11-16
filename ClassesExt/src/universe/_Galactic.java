@@ -1,7 +1,7 @@
 package universe;
 
 
-public abstract class _Galactic {
+public  class _Galactic {
     _Arm[] arms;
 
 

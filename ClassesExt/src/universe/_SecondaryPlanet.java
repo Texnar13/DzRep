@@ -1,5 +1,5 @@
 package universe;
 
 
-public abstract class _SecondaryPlanet {
+public class _SecondaryPlanet {
 }
